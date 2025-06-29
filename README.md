@@ -1,16 +1,29 @@
-## Hi there 👋
+# Learning ML with GPT 🤖📚
 
-<!--
-**learningmlwithgpt/learningmlwithgpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Learning ML with GPT** — an anonymous, self-study journal where I publish short, deep explorations into machine learning theory and interview preparation.
 
-Here are some ideas to get you started:
+Each week, I tackle either:
+- A **single theoretical concept** (e.g. PAC-Bayes, score-based diffusion, invariance in ML), or
+- A **set of 6 curated ML interview questions**, answered with math, intuition, and depth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is part of my own learning routine — writing helps me learn, and I hope it helps you too.
+
+---
+
+## ✍️ Posts
+
+- [PAC-Bayes Theory for Generalization](posts/2024-06-29-pac-bayes.md)
+- (coming soon…)
+
+---
+
+## 🔗 Follow Along
+
+- Subreddit (soon): [r/learningmlwithgpt](https://www.reddit.com/r/learningmlwithgpt/)
+- PDF Archive and Raw Markdown: [Browse the repo](https://github.com/learningmlwithgpt/learningmlwithgpt)
+
+Everything is open and anonymous. If you want to suggest a topic, open an issue or join the discussion on Reddit once it’s live.
+
+---
+
+🧠 **Stay curious. Stay rigorous.**
